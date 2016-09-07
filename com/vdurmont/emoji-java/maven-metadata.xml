@@ -3,10 +3,10 @@
   <groupId>com.vdurmont</groupId>
   <artifactId>emoji-java</artifactId>
   <versioning>
-    <release>3.1.3</release>
+    <release>3.1.3-emojione</release>
     <versions>
-      <version>3.1.3</version>
+      <version>3.1.3-emojione</version>
     </versions>
-    <lastUpdated>20160907075631</lastUpdated>
+    <lastUpdated>20160907092903</lastUpdated>
   </versioning>
 </metadata>
